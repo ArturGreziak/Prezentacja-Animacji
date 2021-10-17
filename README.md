@@ -1,2 +1,2 @@
 # Prezentacja-Animacji
-Kilka przykładowych prezentacji postaci 3D
+Kilka przykładowych animacji postaci 3D
